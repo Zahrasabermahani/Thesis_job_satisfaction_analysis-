@@ -1,5 +1,6 @@
 # Thesis_job_satisfaction_analysis-
 This file just results in seeing what happened in my thesis process. All of the main codes have been deleted. 
+This is my full code here : https://www.theseus.fi/handle/10024/891551
 
 
 ## preprocessing 
